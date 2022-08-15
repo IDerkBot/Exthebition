@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProgramInfoDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramInfoDataSource>
+    <Id>1</Id>
+    <Name>1. Программа</Name>
+    <Steps>
+      <Step>
+        <Id>0</Id>
+        <Name>1. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>1</Id>
+        <Name>2. Шаг</Name>
+        <Y>37</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>2</Id>
+        <Name>3. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>3</Id>
+        <Name>4. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>4</Id>
+        <Name>5. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>5</Id>
+        <Name>6. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>6</Id>
+        <Name>7. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>7</Id>
+        <Name>8. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>8</Id>
+        <Name>9. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+    </Steps>
+  </ProgramInfoDataSource>
+  <ProgramInfoDataSource>
+    <Id>2</Id>
+    <Name>2. Программа</Name>
+    <Steps>
+      <Step>
+        <Id>1</Id>
+        <Name>1. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>2</Id>
+        <Name>2. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>3</Id>
+        <Name>3. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+      <Step>
+        <Id>4</Id>
+        <Name>4. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+    </Steps>
+  </ProgramInfoDataSource>
+  <ProgramInfoDataSource>
+    <Id>3</Id>
+    <Name>3. Программа</Name>
+    <Steps>
+      <Step>
+        <Id>1</Id>
+        <Name>1. Шаг</Name>
+        <Y>0</Y>
+        <U>0</U>
+        <V>0</V>
+        <MA>0.2</MA>
+        <KV>0</KV>
+        <Timing>0</Timing>
+      </Step>
+    </Steps>
+  </ProgramInfoDataSource>
+</ArrayOfProgramInfoDataSource>

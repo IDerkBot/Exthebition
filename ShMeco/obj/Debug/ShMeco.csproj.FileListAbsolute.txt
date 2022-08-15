@@ -1,0 +1,195 @@
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\bin\Debug\ShMeco.exe.config
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\bin\Debug\ShMeco.exe
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\bin\Debug\ShMeco.pdb
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\MainWindow.g.cs
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\App.g.cs
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\App.baml
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\MainWindow.baml
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.g.resources
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.exe
+C:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.pdb
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\OUTPUT\ShMeco.exe.config
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\OUTPUT\ShMeco.exe
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\OUTPUT\ShMeco.pdb
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.csprojAssemblyReference.cache
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\MModbusTCP.g.cs
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\OUTPUT\NModbus4.dll
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\OUTPUT\NModbus4.xml
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\MModbusTCP.baml
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete
+c:\Users\Coder Second\source\repos\ShMeco\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Coder Second\source\Exhibition\ShMeco\OUTPUT\ShMeco.exe.config
+c:\Users\Coder Second\source\Exhibition\ShMeco\OUTPUT\ShMeco.exe
+c:\Users\Coder Second\source\Exhibition\ShMeco\OUTPUT\ShMeco.pdb
+c:\Users\Coder Second\source\Exhibition\ShMeco\OUTPUT\NModbus4.dll
+c:\Users\Coder Second\source\Exhibition\ShMeco\OUTPUT\NModbus4.xml
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.AssemblyReference.cache
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\MainWindow.g.cs
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\MModbusTCP.g.cs
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\App.g.cs
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\App.baml
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\MainWindow.baml
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\MModbusTCP.baml
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.g.resources
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.exe
+c:\Users\Coder Second\source\Exhibition\ShMeco\obj\Debug\ShMeco.pdb
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\OUTPUT\ShMeco.exe.config
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\OUTPUT\ShMeco.exe
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\OUTPUT\ShMeco.pdb
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\OUTPUT\NModbus4.dll
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\OUTPUT\NModbus4.xml
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\MModbusTCP.g.cs
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\MModbusTCP.baml
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.g.resources
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.exe
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.pdb
+C:\Users\Admin\Desktop\Механика\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ShMeco.exe.config
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ShMeco.exe
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ShMeco.pdb
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\NModbus4.dll
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\NModbus4.xml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.g.resources
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.exe
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\ShMeco.pdb
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.g.cs
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Resource\Themes\NewTheme.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Resource\Themes\OldTheme.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\obj\Debug\Resource\Icons\Icons.baml
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.dll
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ArionLibrary.dll
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.pdb
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\ArionLibrary.pdb
+C:\Users\Admin\Desktop\Projects\Механика — копия\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.xml
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.AssemblyReference.cache
+F:\Exhibition\ShMeco\obj\Debug\Resource\Icons\Icons.baml
+F:\Exhibition\ShMeco\obj\Debug\Resource\Themes\NewTheme.baml
+F:\Exhibition\ShMeco\obj\Debug\Resource\Themes\OldTheme.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.baml
+F:\Exhibition\ShMeco\obj\Debug\App.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.g.cs
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.g.cs
+F:\Exhibition\ShMeco\obj\Debug\App.g.cs
+F:\Exhibition\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+F:\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.exe
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.pdb
+F:\Exhibition\ShMeco\OUTPUT\ShMeco.exe.config
+F:\Exhibition\ShMeco\OUTPUT\ShMeco.exe
+F:\Exhibition\ShMeco\OUTPUT\ShMeco.pdb
+F:\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.dll
+F:\Exhibition\ShMeco\OUTPUT\ArionLibrary.dll
+F:\Exhibition\ShMeco\OUTPUT\NModbus4.dll
+F:\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.dll
+F:\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.pdb
+F:\Exhibition\ShMeco\OUTPUT\ArionLibrary.pdb
+F:\Exhibition\ShMeco\OUTPUT\NModbus4.xml
+F:\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.xml
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.baml
+F:\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.baml
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.g.resources
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+F:\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.AssemblyReference.cache
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Resource\Icons\Icons.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Resource\Themes\NewTheme.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Resource\Themes\OldTheme.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\App.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\ManipulatorsPage.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramsWindow.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\App.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.cache
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco_MarkupCompile.lref
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.exe
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.pdb
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ShMeco.exe.config
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ShMeco.exe
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ShMeco.pdb
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.dll
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ArionLibrary.dll
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.dll
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\NModbus4.dll
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ArionControlLibrary.pdb
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\ArionLibrary.pdb
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\Newtonsoft.Json.xml
+C:\Users\Admin\source\Exhibition\ShMeco\OUTPUT\NModbus4.xml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\ProgramsPage.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Pages\XrayPage.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\ProgramCreateWindow.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\Views\Windows\UsersWindows.baml
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.g.resources
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.Properties.Resources.resources
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.GenerateResource.cache
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\Exhibition\ShMeco\obj\Debug\ShMeco.csproj.CopyComplete

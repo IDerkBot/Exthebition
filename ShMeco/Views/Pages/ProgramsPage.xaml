@@ -1,0 +1,118 @@
+﻿<Page
+    x:Class="Exhibition.Views.Pages.ProgramsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models1="clr-namespace:Exhibition.Models"
+    Title="ProgramsPage"
+    Width="620"
+    Height="170"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <models1:BoolConverter x:Key="Opposite" />
+    </Page.Resources>
+    <Border
+        Padding="5"
+        Background="#A6B7D2"
+        BorderBrush="White"
+        BorderThickness="2"
+        CornerRadius="10.5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                <Button
+                    x:Name="BtnUsers"
+                    Width="30"
+                    Height="30"
+                    Margin="5"
+                    Click="BtnUsers_OnClick"
+                    Style="{StaticResource BlueWhiteButton}">
+                    <Image Margin="5" Source="{StaticResource Kind_UserDrawingImage}" />
+                </Button>
+
+                <Button
+                    x:Name="BtnPrograms"
+                    Width="30"
+                    Height="30"
+                    Margin="5"
+                    Click="BtnPrograms_Click"
+                    Style="{StaticResource BlueWhiteButton}">
+                    <Image Margin="5" Source="{StaticResource Kind_MinimizeDrawingImage}" />
+                </Button>
+
+                <Button
+                    Width="30"
+                    Height="30" Click="BtnSettings_OnClick"
+                    Margin="5"
+                    Style="{StaticResource BlueWhiteButton}">
+                    <Image Margin="5" Source="{StaticResource Kind_SettingDrawingImage}" />
+                </Button>
+            </StackPanel>
+
+            <Label
+                Grid.Row="0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="Роботизированный цикл"
+                FontSize="20"
+                Style="{StaticResource BlueLabelTransparentBackground}" />
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <ComboBox
+                    Name="CbPrograms"
+                    Width="330"
+                    Height="30"
+                    DisplayMemberPath="Name" />
+                <Button
+                    Name="BtnCycleStart"
+                    Height="30"
+                    Margin="5,0,0,0"
+                    Click="BtnRunCycle_Click"
+                    Style="{StaticResource BlueWhiteButton}">
+                    <Image Margin="0" Source="../../Resource/Images/playIcon.png" />
+                </Button>
+                <Button
+                    Name="BtnCyclePause"
+                    Height="30"
+                    Margin="5,0,0,0"
+                    Click="BtnStopCycle_Click"
+                    IsEnabled="{Binding ElementName=BtnCycleStart, Path=IsEnabled, Converter={StaticResource Opposite}}"
+                    Style="{StaticResource BlueWhiteButton}">
+                    <Image Source="../../Resource/Images/pause_icon.png" />
+                </Button>
+            </StackPanel>
+
+            <Border
+                Grid.Row="1"
+                Grid.RowSpan="3"
+                Width="180"
+                HorizontalAlignment="Right">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="35" />
+                    </Grid.RowDefinitions>
+                    <TextBlock
+                        Name="TbWelcome"
+                        Text="Доступ к некоторым функциям запрещен"
+                        TextAlignment="Center"
+                        TextWrapping="Wrap" />
+                    <Button
+                        Name="BtnAuth"
+                        Grid.Row="2"
+                        Width="160"
+                        HorizontalAlignment="Center"
+                        Click="BtnAuth_OnClick"
+                        Content="Авторизация" />
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Page>

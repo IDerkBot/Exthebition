@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <User>
+    <Login>Admin</Login>
+    <FullName>Administrator</FullName>
+    <Password>1234</Password>
+    <Level>3</Level>
+    <Enabled>1</Enabled>
+  </User>
+</DocumentElement>

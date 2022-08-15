@@ -1,0 +1,278 @@
+﻿<Page
+    x:Class="Exhibition.Views.Pages.ManipulatorsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="ManipulatorsPage"
+    Width="620"
+    Height="170"
+    Loaded="Page_Loaded"
+    mc:Ignorable="d">
+    <Border
+        Padding="5"
+        Background="#A6B7D2"
+        BorderBrush="White"
+        BorderThickness="2"
+        CornerRadius="10.5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5*" />
+                <RowDefinition Height="1.5*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="120" />
+            </Grid.ColumnDefinitions>
+
+            <Label
+                Grid.ColumnSpan="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Манипулятор"
+                FontSize="20"
+                Style="{StaticResource BlueLabelTransparentBackground}" />
+
+            <Label
+                Grid.Row="0"
+                Grid.Column="6"
+                Margin="2"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Content="Скорость"
+                FontSize="20"
+                Style="{StaticResource BlueLabelTransparentBackground}" />
+
+            <Grid Grid.Row="1" Grid.Column="0">
+                <Label
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Content="Y"
+                    FontSize="22"
+                    Style="{StaticResource BlueLabelTransparentBackground}" />
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="2">
+                <Label
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Content="U"
+                    FontSize="22"
+                    Style="{StaticResource BlueLabelTransparentBackground}" />
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="4">
+                <Label
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Content="V"
+                    FontSize="22"
+                    Style="{StaticResource BlueLabelTransparentBackground}" />
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="6">
+                <Label
+                    x:Name="SpeedDesk"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Content="20%"
+                    FontSize="22"
+                    Style="{StaticResource BlueLabelTransparentBackground}" />
+            </Grid>
+
+            <Grid Grid.Row="3" Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button
+                    x:Name="Yminus"
+                    Grid.Column="0"
+                    Content="-"
+                    FontSize="28"
+                    PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                    PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                    Style="{StaticResource BlueWhiteButton}" />
+
+                <Button
+                    x:Name="Y0"
+                    Grid.Column="1"
+                    Click="BtnZero_OnClick"
+                    Content="0"
+                    FontSize="22"
+                    Style="{StaticResource BlueWhiteButton}" />
+
+                <Button
+                    x:Name="Yplus"
+                    Grid.Column="2"
+                    Content="+"
+                    FontSize="28"
+                    PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                    PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                    Style="{StaticResource BlueWhiteButton}" />
+            </Grid>
+
+            <Grid Grid.Row="3" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Button
+                        x:Name="Uminus"
+                        Content="-"
+                        FontSize="28"
+                        PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                        PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Button
+                        x:Name="U0"
+                        Click="BtnZero_OnClick"
+                        Content="0"
+                        FontSize="22"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Button
+                        x:Name="Uplus"
+                        Content="+"
+                        FontSize="28"
+                        PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                        PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+
+            </Grid>
+
+
+            <Grid Grid.Row="3" Grid.Column="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Button
+                        x:Name="Vminus"
+                        Content="-"
+                        FontSize="28"
+                        PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                        PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Button
+                        x:Name="V0"
+                        Click="BtnZero_OnClick"
+                        Content="0"
+                        FontSize="22"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Button
+                        x:Name="Vplus"
+                        Content="+"
+                        FontSize="28"
+                        PreviewMouseLeftButtonDown="BtnMove_OnClick"
+                        PreviewMouseLeftButtonUp="BtnStop_OnClick"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+            </Grid>
+
+
+            <Grid Grid.Row="3" Grid.Column="6">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Button
+                        x:Name="BtnSpeed1"
+                        Click="BtnSpeed1_OnClick"
+                        Content="20"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Button
+                        x:Name="BtnSpeed2"
+                        Click="BtnSpeed2_OnClick"
+                        Content="50"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Button
+                        x:Name="BtnSpeed3"
+                        Click="BtnSpeed3_OnClick"
+                        Content="100"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+            </Grid>
+
+            <Label
+                x:Name="ActPos1"
+                Grid.Row="2"
+                Grid.Column="0"
+                Width="120"
+                Height="40"
+                Content="000"
+                FontSize="22"
+                Style="{StaticResource RoundedLabelStyle}" />
+            <Label
+                x:Name="ActPos2"
+                Grid.Row="2"
+                Grid.Column="2"
+                Width="120"
+                Height="40"
+                Content="000"
+                FontSize="22"
+                Style="{StaticResource RoundedLabelStyle}" />
+            <Label
+                x:Name="ActPos3"
+                Grid.Row="2"
+                Grid.Column="4"
+                Width="120"
+                Height="40"
+                Content="000"
+                FontSize="22"
+                Style="{StaticResource RoundedLabelStyle}" />
+
+            <Grid Grid.Row="2" Grid.Column="6">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+
+                <Grid Grid.Column="0">
+                    <Button
+                        x:Name="SpeedMinus"
+                        Click="SpeedMinus_OnClick"
+                        Content="-"
+                        FontSize="24"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Button
+                        x:Name="SpeedPlus"
+                        Click="SpeedPlus_OnClick"
+                        Content="+"
+                        FontSize="24"
+                        Style="{StaticResource BlueWhiteButton}" />
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</Page>
